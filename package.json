@@ -1,6 +1,6 @@
 {
   "name": "@essappstate/react-state-dropdown",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A Bootstrap themes dropdown select for states for React",
   "main": "build/index.js",
   "scripts": {
